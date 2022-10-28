@@ -1,5 +1,5 @@
-a=5
-b=5
+a=9
+b=0
 c=6
 
 print('a is b : ', a is b)

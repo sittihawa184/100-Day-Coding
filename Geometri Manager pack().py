@@ -5,9 +5,8 @@ window.title("Hawa")
 window.geometry("600x100")
 
 #membuat pack
-Button1 = Button(window, text="Left", bg="blue").pack(side=LEFT, expand=YES, fill=Y)
-Button2 = Button(window, text="Top", bg="green").pack(side=TOP,expand=YES, fill=BOTH)
-Button3 = Button(window, text="Right", bg="black").pack(side=LEFT, expand=YES, fill=X)
-Button4 = Button(window, text="Left", bg="purple").pack(side=RIGHT, expand=YES, fill=BOTH)
+Button1 = Button(window, text="Hawa", bg="light blue").pack(side=TOP, expand=YES, fill=BOTH)
+Button2 = Button(window, text="WASKIA", bg="green").pack(side=TOP,expand=YES, fill=BOTH)
+Button3 = Button(window, text="ARFAN", bg="yellow").pack(side=LEFT, expand=YES, fill=X)
 
 window.mainloop()

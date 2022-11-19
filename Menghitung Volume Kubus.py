@@ -1,5 +1,5 @@
 # Menginput Sisi Kubus
-sisi = float(input('Tulis Sisi Kubus: '))
+sisi = float(input("Sisi Kubus: "))
 
 # Hitung Volume Kubus
 volume = sisi ** 3
